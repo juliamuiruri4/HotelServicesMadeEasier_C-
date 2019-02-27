@@ -1,0 +1,6 @@
+E:\study\c#\HotelServiceProject\HotelServiceProject\bin\Debug\HotelServiceProject.exe.config
+E:\study\c#\HotelServiceProject\HotelServiceProject\bin\Debug\HotelServiceProject.exe
+E:\study\c#\HotelServiceProject\HotelServiceProject\bin\Debug\HotelServiceProject.pdb
+E:\study\c#\HotelServiceProject\HotelServiceProject\obj\Debug\HotelServiceProject.exe
+E:\study\c#\HotelServiceProject\HotelServiceProject\obj\Debug\HotelServiceProject.pdb
+E:\study\c#\HotelServiceProject\HotelServiceProject\obj\Debug\HotelServiceProject.csprojResolveAssemblyReference.cache
